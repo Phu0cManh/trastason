@@ -10,4 +10,5 @@ Làm theo link trên, thêm bước tháo 3 R shunt đi
 
 ## **App build sẵn:** release\app-release.apk
 code dùng flutter
+
 source: app\lib\main.dart
