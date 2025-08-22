@@ -9,6 +9,7 @@ Làm theo link trên, thêm bước tháo 3 R shunt đi
 - GND nối chung với nhau
 
 ## **App build sẵn:** release\app-release.apk
-code dùng flutter
 
-source: app\lib\main.dart
+
+## **Source code: app\lib\main.dart**
+code dùng flutter
