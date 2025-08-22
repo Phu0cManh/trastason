@@ -1,5 +1,4 @@
-## **Sửa lỗi INA3221 breakout board**
-**Tham khảo:** [Fixing the INA3221 breakout board - Arduino Forum](https://forum.arduino.cc/t/fixing-the-ina3221-breakout-board/526947)
+## **1. [Fixing the INA3221 breakout board - Arduino Forum](https://forum.arduino.cc/t/fixing-the-ina3221-breakout-board/526947)**
 
 ## **App build sẵn:** release\app-release.apk
 
