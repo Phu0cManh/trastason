@@ -33,6 +33,6 @@
 
 ---
 
-## 📱 3. Phần mềm
+## 📱 3. Phần mềm(android)
 - 📦 **App build sẵn (Android):** `release/app-release.apk`  
 - 💻 **Source code (Flutter):** `app/lib/main.dart`
