@@ -1,7 +1,7 @@
 ## **1. [Fixing the INA3221 breakout board - Arduino Forum](https://forum.arduino.cc/t/fixing-the-ina3221-breakout-board/526947)**
 Làm theo link trên, thêm bước tháo 3 R shunt đi
 ## **2. SCHEMATIC:**
-- Tháo phần sau mạch UGREEN 300W![alt text](image.png)
+- Tháo phần sau mạch UGREEN 300W
 - Tìm các Rshunt(trở to có ghi R003, R005, R010)
 - Kết nối mạch Ina với các Rshunt(đầu Rshunt nối với cuộn cảm là in+ còn lại là in-)
 - SDA, SCL (2 mạch ina và oled) nối GPIO 21,22
