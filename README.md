@@ -14,4 +14,4 @@ Làm theo link trên, thêm bước tháo 3 R shunt đi
 ## **Source code: app\lib\main.dart**
 code dùng flutter
 
-### NẾU CÓ GÌ THẮC MẮC VUI LÒNG LIÊN HỆ CLAUDE/GPT
+### NẾU CÓ GÌ THẮC MẮC VUI LÒNG LIÊN HỆ CLAUDE/GPT 😁
