@@ -34,5 +34,18 @@
 ---
 
 ## 📱 3. Phần mềm(android)
+
+### ⚙️ **Điều chỉnh hệ số hiệu chuẩn:**
+```c
+float currentFactors[5] = {
+    1.0f,    // C1
+    1.0f,    // C2  <-- chỉnh theo case bạn nêu
+    1.0f,    // C3
+    1.0f,    // C4
+    1.0f     // USB-A
+};
+```
+*Mọi người chỉnh thông cắm USB tester vào và tăng hoặc giảm thông số đến khi đúng với USB tester*
+
 - 📦 **App build sẵn (Android):** `release/app-release.apk`  
 - 💻 **Source code (Flutter):** `app/lib/main.dart`
